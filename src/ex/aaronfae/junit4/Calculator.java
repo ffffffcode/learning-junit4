@@ -1,7 +1,7 @@
-package ex.aaronfae.junit4.quickstart;
+package ex.aaronfae.junit4;
 
 /**
- * 快速入门的Junit4被测试类
+ * Junit4被测试类
  * 
  * @author AaronFae
  *

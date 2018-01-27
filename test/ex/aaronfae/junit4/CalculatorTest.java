@@ -1,4 +1,4 @@
-package ex.aaronfae.junit4.quickstart;
+package ex.aaronfae.junit4;
 
 import static org.junit.Assert.*;
 
