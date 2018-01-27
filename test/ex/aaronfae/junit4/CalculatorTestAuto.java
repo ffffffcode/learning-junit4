@@ -16,4 +16,14 @@ public class CalculatorTestAuto {
 		fail("Not yet implemented");
 	}
 
+	@Test
+	public void testMultiply() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDivide() {
+		fail("Not yet implemented");
+	}
+
 }
