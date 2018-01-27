@@ -16,12 +16,12 @@ public class JunitFlowTest {
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
-		System.out.println("BeforeClass 用于setup加载初始化等操作");
+		System.out.println("BeforeClass static修饰的 用于setup加载初始化等操作");
 	}
 
 	@AfterClass
 	public static void tearDownAfterClass() throws Exception {
-		System.out.println("AfterClass 用于tear down拆卸关闭资源等操作");
+		System.out.println("AfterClass static修饰的 用于tear down拆卸关闭资源等操作");
 	}
 
 	@Before
